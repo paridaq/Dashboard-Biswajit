@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dashboard-Biswajit/static/css/main.7b047661.css",
+    "main.js": "/Dashboard-Biswajit/static/js/main.804ec552.js",
+    "static/js/592.7f72a991.chunk.js": "/Dashboard-Biswajit/static/js/592.7f72a991.chunk.js",
+    "index.html": "/Dashboard-Biswajit/index.html",
+    "main.7b047661.css.map": "/Dashboard-Biswajit/static/css/main.7b047661.css.map",
+    "main.804ec552.js.map": "/Dashboard-Biswajit/static/js/main.804ec552.js.map",
+    "592.7f72a991.chunk.js.map": "/Dashboard-Biswajit/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b047661.css",
+    "static/js/main.804ec552.js"
+  ]
+}
